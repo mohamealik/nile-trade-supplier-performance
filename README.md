@@ -7,7 +7,7 @@ A Power BI project that answers two questions for a fictional Sudan-based distri
 
 
 
-![Home]/01_home.png)
+![Home](images/01_home.png)
 
 
 
@@ -35,18 +35,21 @@ A Power BI project that answers two questions for a fictional Sudan-based distri
 3. **Inventory & What-If**: reorder alerts and safety stock by service level
 4. **Executive Summary**: what happened, why, what if, what to do
 
-| Supplier Scorecard | Inventory & What-If |
-|---|---|
-| 
+### Supplier Scorecard
+
 
 ![Scorecard](images/02_supplier_scorecard.png)
 
- | 
+
+
+### Inventory & What-If
+
 
 ![Inventory](images/03_inventory_whatif.png)
 
- |
 
+
+### Executive Summary
 
 
 ![Executive Summary](images/04_executive_summary.png)
@@ -66,10 +69,10 @@ Reorder Point = [Avg Weekly Demand] * [Lead Time (weeks)] + [Safety Stock]
 
 ## Files
 
-- `NileTrade_Supplier_Performance.pbix`: the Power BI report
+- `NileTrade_Supply_Chain_Data.pbix`: the Power BI report
 - `NileTrade_Supply_Chain_Data.xlsx`: the simulated dataset
 - `images/`: report screenshots
 
 ## Author
 
-**Mohammed Malik Hamed**, Logistics & Supply Chain Analys
+**Mohammed Malik Hamed**, Logistics & Supply Chain Analyst
