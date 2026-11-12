@@ -7,7 +7,7 @@ A Power BI project that answers two questions for a fictional Sudan-based distri
 
 
 
-![Home](images/01_home.png)
+![Home]/01_home.png)
 
 
 
